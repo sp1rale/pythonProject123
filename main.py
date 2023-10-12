@@ -1,3 +1,4 @@
-print('To be')
-print('or not')
-print('to be')
+print('"Life is what happens')
+print('when')
+print('youre busy making other plans"')
+print('John Lennon')
